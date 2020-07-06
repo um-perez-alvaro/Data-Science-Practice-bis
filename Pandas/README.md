@@ -7,9 +7,9 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 ## Jupyter Notebooks
 
 - [Part I. DataFrames and Series](./Part%20I.ipynb)
-- [Part II. Sorting, Filtering and Applying](.\Part%20II.ipynb)
-- [Part III. Data Cleaning and Preparation](.\Part%20III.ipynb)
-- [Part IV. Data Aggregation](.\Part%20IV.ipynb)
+- [Part II. Sorting, Filtering and Applying](./Part%20II.ipynb)
+- [Part III. Data Cleaning and Preparation](./Part%20III.ipynb)
+- [Part IV. Data Aggregation](./Part%20IV.ipynb)
 
 ## Homework 
 
