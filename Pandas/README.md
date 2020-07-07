@@ -27,6 +27,6 @@ Filename | Description |  Source
 --- | --- |  --- 
 [Fremont.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Pandas/Data/Fremont.csv) | Fremont bridge bicycle counter | [City of Seattle Open Data portal](https://data.seattle.gov/)
 [drinks.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Pandas/Data/drinks.csv) | Alcohol consumption by country | [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/alcohol-consumption) 
-[imdb_1000.csv](data/imdb_1000.csv) | Top rated movies from IMDb  | [IMDb](http://www.imdb.com/search/title?groups=top_1000&sort=user_rating&view=simple) 
-[titanic.csv](data/titanic_train.csv) | Training set from Kaggle's Titanic competition | [Kaggle](https://www.kaggle.com/c/titanic)
-[ufo.csv](data/ufo.csv) | Reports of UFO sightings from 1930-2000 (the truth is out there)  | [National UFO Reporting Center](http://www.nuforc.org/webreports.html)
+[imdb_1000.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Pandas/Data/imdb_1000.csv) | Top rated movies from IMDb  | [IMDb](http://www.imdb.com/search/title?groups=top_1000&sort=user_rating&view=simple) 
+[titanic.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Pandas/Data/titanic.csv) | Famous Titanic daseset from Kaggle | [Kaggle](https://www.kaggle.com/c/titanic)
+[ufo.csv](dhttps://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Pandas/Data/ufo.csv) | Reports of UFO sightings from 1930-2000 (the truth is out there)  | [National UFO Reporting Center](http://www.nuforc.org/webreports.html)
