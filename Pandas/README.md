@@ -19,10 +19,7 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 
 ## Homework 
 
-- [Homework 1](.\Homework1.ipynb)
-
-## Projects
-
+- [Stanford Open Police Dataset](.\Homework1.ipynb)
 - [US Baby names](.\US_Baby_names.ipynb)
 
 ## Datasets
