@@ -11,11 +11,14 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 - [Part III. Data Cleaning and Preparation](./Part%20III.ipynb)
 - [Part IV. Data Aggregation](./Part%20IV.ipynb)
 
+## Practise Exercises
+
+-[Set 1](./Set1)
+-[Set 2](./Set2)
+
 ## Homework 
 
 - [Homework 1](.\Homework1.ipynb)
-- [Homework 2](.\Homework2.ipynb)
-- [Homework 3](.\Homework3.ipynb)
 
 ## Projects
 
