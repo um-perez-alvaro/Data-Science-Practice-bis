@@ -13,8 +13,8 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 
 ## Practise Exercises
 
--[Set 1](./Set1)
--[Set 2](./Set2)
+- [Set 1](./Set1)
+- [Set 2](./Set2)
 
 ## Homework 
 
