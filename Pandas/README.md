@@ -25,6 +25,7 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 
 Filename | Description |  Source
 --- | --- |  --- 
+[police_ri.csv]() | blah | [Stanford Open Policing Project](https://openpolicing.stanford.edu/data/)
 [Fremont.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Pandas/Data/Fremont.csv) | Fremont bridge bicycle counter | [City of Seattle Open Data portal](https://data.seattle.gov/)
 [drinks.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Pandas/Data/drinks.csv) | Alcohol consumption by country | [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/alcohol-consumption) 
 [imdb_1000.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Pandas/Data/imdb_1000.csv) | Top rated movies from IMDb  | [IMDb](http://www.imdb.com/search/title?groups=top_1000&sort=user_rating&view=simple) 
