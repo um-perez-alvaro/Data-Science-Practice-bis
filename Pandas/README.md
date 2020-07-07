@@ -15,6 +15,7 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 
 - [Set 1](./Set1)
 - [Set 2](./Set2)
+- [Set 3](./Set3)
 
 ## Homework 
 
