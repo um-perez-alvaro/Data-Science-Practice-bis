@@ -26,6 +26,7 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 
 Filename | Description |  Source
 --- | --- |  --- 
+[names.csv] | frequency of baby names from 1880 through 2017 | [SSA](https://www.ssa.gov/oact/babynames/limits.html)
 [police_ri.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Pandas/Data/police_ri.csv) | Data on vehicle and pedestrian stops from law enforcement departments across Rhode Island | [Stanford Open Policing Project](https://openpolicing.stanford.edu/data/)
 [sales.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Pandas/Data/sales.csv) | Monthly Sales Data of sell of electronics equipment across USA in 2019 | [Kaggle](https://www.kaggle.com/subhendughosh/monthly-sales-data)
 [Fremont.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Pandas/Data/Fremont.csv) | Fremont bridge bicycle counter | [City of Seattle Open Data portal](https://data.seattle.gov/)
