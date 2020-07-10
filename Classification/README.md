@@ -2,8 +2,15 @@
 
 ## Jupyther notebooks
 
-- one
-- two
+- [Model training]()
+- [Classification algorithms]()
+- [Binary and Multiclass classification]()
+- [Cross validation]()
+- [Classification metrics]()
+- [Classification threshold]()
+- [Model evaluation]()
+- [Grid search]()
+- [Categorical features]()
 
 ## Datasets
 
