@@ -1,15 +1,18 @@
-# Introduction to Pandas
+# Introduction to Pandas and Matplotlib
 
 [pandas](https://pandas.pydata.org/) is a powerful, open source Python library for data analysis, manipulation, and visualization. 
-The goal of the following Jupyter notebooks is to give you some concrete examples for getting started with pandas.
-
+[matplotlib](https://matplotlib.org/) is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+The goal of the following Jupyter notebooks is to give you some concrete examples for getting started with pandas and matplotlib.
 
 ## Jupyter Notebooks
 
-- [Part I. DataFrames and Series](./Part%20I.ipynb)
-- [Part II. Sorting, Filtering and Applying](./Part%20II.ipynb)
-- [Part III. Data Cleaning and Preparation](./Part%20III.ipynb)
-- [Part IV. Data Aggregation](./Part%20IV.ipynb)
+- [pandas - Part I. DataFrames and Series](./Part%20I.ipynb)
+- [pandas - Part II. Sorting, Filtering and Applying](./Part%20II.ipynb)
+- [pandas - Part III. Part III. Data Cleaning and Preparation](./Part%20III.ipynb)
+- [pandas - Part IV. Data Aggregation](./Part%20IV.ipynb)
+- [matplotlib - Part I](hell)
+- [matplotlib - Part II](hell)
+
 
 ## Practice Sets
 
