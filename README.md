@@ -9,4 +9,4 @@
 - Regression
 - Clustering and Segmentation
 - Recommender Systems
-- Processing Massively Large Data Sets
+- Processing Massively Large Data Sets: Sequential, Parallel, and Distributed Computing
