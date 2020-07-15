@@ -6,4 +6,5 @@
 - Classification Algorithms
 - Ensemble Methods and Random Forests
 - Regression
+- Clustering and Segmentation
 - Recommender Systems
