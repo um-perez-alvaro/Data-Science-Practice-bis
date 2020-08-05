@@ -22,8 +22,8 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 
 ## Homework 
 
-- [Stanford Open Police Dataset](.\Homework1.ipynb)
-- [US Baby names](.\US_Baby_names.ipynb)
+- [Stanford Open Police Dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Homework%201.ipynb)
+- [US Baby names](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Homework%202.ipynb)
 
 ## Datasets
 
