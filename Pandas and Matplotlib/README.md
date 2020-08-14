@@ -15,7 +15,7 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 
 ## Homework
 
-- [Homework 1](https://nbviewer.jupyter.org/github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Homework%201.ipynb)
+- [Homework 1](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Homework%201.ipynb)
 - [Homework 2](https://nbviewer.jupyter.org/github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Homework%202.ipynb)
 
 ## Projects 
