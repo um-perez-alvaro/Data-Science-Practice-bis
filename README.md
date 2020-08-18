@@ -1,4 +1,4 @@
-# Data-Science-Practice
+# Data Science Analytics
 
 **Contents:**
 
