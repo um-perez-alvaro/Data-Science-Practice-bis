@@ -15,13 +15,13 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 
 ## Practice Problems
 
-- [Problem 1](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Homework%201.ipynb)
-- [Problem 2](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Homework%202.ipynb)
+- [Problem 1](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Problem%201.ipynb)
+- [Problem 2](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Prablem%202.ipynb)
 
 ## Homework  
 
-- [Stanford Open Police Dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Project%201.ipynb)
-- [US Baby names](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Project%202.ipynb)
+- [Stanford Open Police Dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Homework%201.ipynb)
+- [US Baby names](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Homework%202.ipynb)
 
 ## Datasets
 
