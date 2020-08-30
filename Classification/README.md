@@ -2,9 +2,7 @@
 
 ## Jupyther notebooks
 
-- [Model training]()
-- [Classification algorithms]()
-- [Binary and Multiclass classification]()
+- [Classification with scikit-learn]()
 - [Cross validation]()
 - [Classification metrics]()
 - [Classification threshold]()
@@ -17,3 +15,4 @@
 Filename | Description |  Source
 --- | --- |  --- 
 pima.csv | Pima indians diabetes database | [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+[iris.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/iris.csv) | 50 samples of 3 different species of iris | [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
