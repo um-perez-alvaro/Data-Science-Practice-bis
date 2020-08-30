@@ -2,13 +2,13 @@
 
 ## Jupyther notebooks
 
-- [Classification with scikit-learn]()
-- [Cross validation]()
-- [Classification metrics]()
-- [Classification threshold]()
-- [Model evaluation]()
-- [Grid search]()
-- [Categorical features]()
+- [Classification with scikit-learn](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Classification/Part%20I.ipynb)
+- Cross validation
+- Classification metrics
+- Classification threshold
+- Model evaluation
+- Grid search
+- Categorical features
 
 ## Datasets
 
