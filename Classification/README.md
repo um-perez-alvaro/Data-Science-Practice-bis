@@ -2,17 +2,16 @@
 
 ## Jupyther notebooks
 
-- [Classification with scikit-learn](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Classification/Part%20I.ipynb)
-- Cross validation
-- Classification metrics
-- Classification threshold
+- [Classification with scikit-learn: the knn algorithm](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Classification/Part%20I.ipynb)
+- Cross validation and Classification Metrics
+- Classification Threshold
 - Model evaluation
-- Grid search
-- Categorical features
+- Grid Search
+- Categorical Features
 
 ## Datasets
 
 Filename | Description |  Source
 --- | --- |  --- 
-pima.csv | Pima indians diabetes database | [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+[pima.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/pima.csv) | Pima indians diabetes database | [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 [iris.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/iris.csv) | 50 samples of 3 different species of iris | [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
