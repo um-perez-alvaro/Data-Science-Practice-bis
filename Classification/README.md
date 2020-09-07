@@ -9,6 +9,10 @@
 - More Classification Models
 - Feature Engineering 
 
+## Homework
+- Handwritten digits
+- A linguistic street map of Singapore
+
 ## Datasets
 
 Filename | Description |  Source
