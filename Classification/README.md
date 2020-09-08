@@ -19,3 +19,6 @@ Filename | Description |  Source
 --- | --- |  --- 
 [pima.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/pima.csv) | Pima indians diabetes database | [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 [iris.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/iris.csv) | 50 samples of 3 different species of iris | [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
+[streets.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/streets.csv) | Singapore street names | [Michelle Fullwood](https://michelleful.github.io/code-blog/2015/04/24/sgmap/)
+[digits.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/digits.csv) | Subset of the MNIST dataset 
+[digits_trest.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/digits_test.csv) | Subset of the MNIST dataset
