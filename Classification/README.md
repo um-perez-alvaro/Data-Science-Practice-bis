@@ -10,8 +10,8 @@
 - Feature Engineering 
 
 ## Homework
-- Handwritten digits
-- A linguistic street map of Singapore
+- [Handwritten digits](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Classification/Homework/Homework%201.ipynb)
+- [A linguistic street map of Singapore](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Classification/Homework/Homework%202.ipynb)
 
 ## Datasets
 
