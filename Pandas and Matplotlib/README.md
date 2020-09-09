@@ -18,7 +18,7 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 - [Problem 1](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Problem%201.ipynb) - [Solution](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Practice%201%20-%20solutions.ipynb)
 - [Problem 2](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Prablem%202.ipynb) - [Solution](https://github.com/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Practice%202%20-%20solutions.ipynb)
 
-## Homework  (due Sept 8)
+## Homework  (due Sept 11)
 
 - [Stanford Open Police Dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Homework%201.ipynb)
 - [US Baby names](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Homework%202.ipynb)
