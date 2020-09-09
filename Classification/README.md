@@ -9,7 +9,7 @@
 - More Classification Models
 - Feature Engineering 
 
-## Homework (Sept 18, Friday)
+## Homework (Sept 21, Monday)
 - [Handwritten digits](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Classification/Homework/Homework%201.ipynb)
 - [A linguistic street map of Singapore](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Classification/Homework/Homework%202.ipynb)
 - [A simple face detector](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Classification/Homework/Homework%203.ipynb)
