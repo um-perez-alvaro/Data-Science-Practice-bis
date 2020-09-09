@@ -15,7 +15,7 @@
 - [A simple face detector](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Classification/Homework/Homework%203.ipynb)
 
 ## In-class project
-- Identifying at-risk individuals
+- Diabetes in America: Identifying at-risk individuals
 
 ## Datasets
 
