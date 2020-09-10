@@ -25,4 +25,5 @@ Filename | Description |  Source
 [iris.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/iris.csv) | 50 samples of 3 different species of iris | [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
 [streets.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/streets.csv) | Singapore street names | [Michelle Fullwood](https://michelleful.github.io/code-blog/2015/04/24/sgmap/)
 [digits.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/digits.csv) | Subset of the MNIST dataset 
-[digits_trest.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/digits_test.csv) | Subset of the MNIST dataset
+[digits_test.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/digits_test.csv) | Subset of the MNIST dataset
+[titanic.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/titanic.csv) | Famous Titanic daseset from Kaggle | [Kaggle](https://www.kaggle.com/c/titanic)
