@@ -7,6 +7,7 @@
 - [Grid Search](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Classification/Part%20III.%20Grid%20Search.ipynb)
 - [Classification Threshold](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Classification/Part%20IV.%20Adjusting%20the%20classification%20threshold.ipynb)
 - [Feature Engineering](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Classification/Part%20V.%20Feature%20Engineering.ipynb)
+- [Pipelines](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Classification/Part%20VI.%20Pipeline.ipynb)
 - More Classification Models
  
 
