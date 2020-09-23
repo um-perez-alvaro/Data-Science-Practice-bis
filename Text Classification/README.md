@@ -5,7 +5,7 @@
 - 
  
 
-## Homework (due Sept 21, Monday)
+## Homework 
 - [Revisiting the linguistic street map of Singapore]()
 - [A spam detector]()
 
