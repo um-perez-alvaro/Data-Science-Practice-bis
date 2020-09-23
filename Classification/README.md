@@ -17,7 +17,7 @@
 - [A linguistic street map of Singapore](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Classification/Homework/Homework%202.ipynb)
 - [A simple face detector](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Classification/Homework/Homework%203.ipynb)
 
-## In-class project
+## In-class project (due, Oct 2, Friday)
 - [Diabetes in America: Identifying at-risk individuals](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Classification/Identifying%20At-Risk%20Individuals.ipynb)
 
 ## Datasets
