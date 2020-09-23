@@ -1,4 +1,4 @@
-# Classification algorithms
+# Naive Bayes for Text Classification
 
 ## Jupyther notebooks
 
