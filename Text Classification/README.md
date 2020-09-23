@@ -8,6 +8,7 @@
 ## Homework 
 - [Revisiting the linguistic street map of Singapore]()
 - [A spam detector]()
+- [Sentiment analysis]()
 
 ## In-class project 
 - [The Disputed Federalist Papers]()
