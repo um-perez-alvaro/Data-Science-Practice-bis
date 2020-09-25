@@ -2,7 +2,9 @@
 
 ## Jupyther notebooks
 
-- 
+- [Vectorization]()
+- [Naive Bayes]()
+- [A SMS span detector]()
  
 
 ## Homework 
@@ -17,4 +19,5 @@
 
 Filename | Description |  Source
 --- | --- |  --- 
+[sms.csv]() | Collection of SMS messages tagged as spam or ham (legitimate) | [Kaggle.com](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
 
