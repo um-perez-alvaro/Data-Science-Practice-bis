@@ -2,14 +2,13 @@
 
 ## Jupyther notebooks
 
-- [Vectorization]()
-- [Naive Bayes]()
-- [A SMS span detector]()
+- [Vectorization and Naive Bayes](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Text%20Classification/Vectorization.ipynb)
+- [A SMS spam detector](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Text%20Classification/%20Building%20s%20SMS%20spam%20detector.ipynb)
  
 
 ## Homework 
 - [Revisiting the linguistic street map of Singapore]()
-- [A spam detector]()
+- [Email spam detector]()
 - [Sentiment analysis]()
 
 ## In-class project 
