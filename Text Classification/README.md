@@ -19,5 +19,5 @@
 
 Filename | Description |  Source
 --- | --- |  --- 
-[sms.csv]() | Collection of SMS messages tagged as spam or ham (legitimate) | [Kaggle.com](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
+[sms](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/sms.tsv.txt) | Collection of SMS messages tagged as spam or ham (legitimate) | [Kaggle.com](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
 
