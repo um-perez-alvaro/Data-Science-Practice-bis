@@ -7,9 +7,9 @@
  
 
 ## Homework 
+- [Yelp reviews]()
 - [Revisiting the linguistic street map of Singapore]()
 - [Email spam detector]()
-- [Yelp reviews]()
 
 ## In-class project 
 - [The Disputed Federalist Papers](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Text%20Classification/The%20Federalist%20Papers.ipynb)
