@@ -8,7 +8,7 @@
 
 ## Homework 
 - [Yelp reviews](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Text%20Classification/Homework/Homework%201.ipynb)
-- [Revisiting the linguistic street map of Singapore]()
+- [Revisiting the linguistic street map of Singapore](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Text%20Classification/Homework/Homework%202.ipynb)
 - [Email spam detection](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Text%20Classification/Homework/Homework%203.ipynb)
 
 ## In-class project 
