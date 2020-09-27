@@ -9,7 +9,7 @@
 ## Homework 
 - [Revisiting the linguistic street map of Singapore]()
 - [Email spam detector]()
-- [Sentiment analysis]()
+- [Yelp reviews]()
 
 ## In-class project 
 - [The Disputed Federalist Papers]()
