@@ -21,4 +21,5 @@ Filename | Description |  Source
 [sms](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/sms.tsv.txt) | Collection of SMS messages tagged as spam or ham (legitimate) | [Kaggle.com](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
 [yelp.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/yelp.csv) | Collection of Yelp reviews | [Kaggle.com](https://www.kaggle.com/c/yelp-recsys-2013)
 [emails](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/emails.csv) | Collection of emails tagged as spam or ham | [Apache SpamAssassin's public datasets](https://spamassassin.apache.org/old/publiccorpus/)
+[messages.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/messages.csv) | Collection of emails tagged by topic | [scikit-learn](https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html)
 
