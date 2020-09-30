@@ -1,6 +1,6 @@
 # Naive Bayes for Text Classification
 
-## Jupyther notebooks
+## Jupyter notebooks
 
 - [Vectorization and Naive Bayes](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Text%20Classification/Vectorization.ipynb)
 - [A SMS spam detector](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Text%20Classification/%20Building%20s%20SMS%20spam%20detector.ipynb)
