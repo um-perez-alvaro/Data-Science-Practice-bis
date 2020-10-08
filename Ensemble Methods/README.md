@@ -24,7 +24,4 @@ shippingPostalCode	|	shipping postal code
 shippingCity	|	shipping city
 shippingState	|	shipping state
 shippingCountry	|	shipping country (3-alpha)
-cvvVerifyResult	| M-- CVV2 Match <br> N-- CVV2 No Match
-P--Not Processed
-S--Issuer indicates that CVV2 data should be present on the card, but the merchant has indicated data is not present on the card
-U--Issuer has not certified for CVV2 or Issuer has not provided Visa with the CVV2 encryption keys Empty--Transaction failed because wrong CVV2 number was entered or no CVV2 number was entered
+cvvVerifyResult	| M-- CVV2 Match <br> N-- CVV2 No Match <br> P--Not Processed <br> S--Issuer indicates that CVV2 data should be present on the card, but the merchant has indicated data is not present on the card <br> U--Issuer has not certified for CVV2 or Issuer has not provided Visa with the CVV2 encryption keys Empty--Transaction failed because wrong CVV2 number was entered or no CVV2 number was entered
