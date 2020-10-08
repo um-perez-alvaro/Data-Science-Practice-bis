@@ -25,3 +25,11 @@ shippingCity	|	shipping city
 shippingState	|	shipping state
 shippingCountry	|	shipping country (3-alpha)
 cvvVerifyResult	| M-- CVV2 Match <br> N-- CVV2 No Match <br> P--Not Processed <br> S--Issuer indicates that CVV2 data should be present on the card, but the merchant has indicated data is not present on the card <br> U--Issuer has not certified for CVV2 or Issuer has not provided Visa with the CVV2 encryption keys Empty--Transaction failed because wrong CVV2 number was entered or no CVV2 number was entered
+paymentInstrumentID	|	ID of payment Instrument: e.g. credit card number (hashed or encrypted) e.g. paypal account Id
+paymentBillingAddress	|	Street Address , hashed or encrypted
+paymentBillingPostalCode	|	payment billing postal code
+paymentBillingState	|	payment billing state
+paymentBillingCountryCode	|	payment billing country code
+paymentBillingName	|	Name, hashed or encrypted, needs to be consistent with other names
+isProxyIP	|	Whether the IP address is a proxy or not
+browserType	|	I -- IE <br> C -- Chrome <br> F -- Firefox <br> O -- Other
