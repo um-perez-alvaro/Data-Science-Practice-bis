@@ -6,3 +6,7 @@ The **Data folder** contains the following data:
 
 
 **Untagged_Transactions.csv** contain the following fields:
+
+Columns	| Type |	Description
+--- | --- |  --- 
+en un | lugar | de la Mancha
