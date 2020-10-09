@@ -1,3 +1,27 @@
+# Ensemble Methods and Random Forests
+
+## Jupyter notebooks
+
+- [Decision Trees]()
+- [Random Forests]()
+- [Gradient Tree Boosting]()
+
+## Homework ()
+- [1]()
+- [2]()
+- [3]()
+
+## In-class project ()
+- [Credit Card Fraud Detection]()
+
+## Datasets
+
+Filename | Description |  Source
+--- | --- |  --- 
+
+
+## Project Dataset
+
 The **Data folder** contains the following data:
 
 - Untagged_Transactions.csv: transaction data from on an online store
