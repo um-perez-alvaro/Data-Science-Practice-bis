@@ -19,6 +19,7 @@
 Filename | Description |  Source
 --- | --- |  --- 
 flights2015 | national flights that took place in the US territory in 2015 as well as information about the airlines and the airports |  [U.S. Department of Transportation’s (DOT) Bureau of Transportation Statistics](https://www.bts.gov/) <br> also [Kaggle](https://www.kaggle.com/c/flight-delays-spring-2018)
+credit_scoring | Data on credit scoring | [Kaggle](https://www.kaggle.com/kashnitsky/a5-demo-logit-and-rf-for-credit-scoring)
 
 
 ## Project Dataset
