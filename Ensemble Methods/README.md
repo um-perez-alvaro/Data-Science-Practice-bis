@@ -7,9 +7,9 @@
 - [Gradient Tree Boosting]()
 
 ## Homework ()
-- [1]()
-- [2]()
-- [3]()
+- [Credit scoring problem]()
+- [Flight delays]()
+- [Forest Cover Type Prediction]()
 
 ## In-class project ()
 - [Credit Card Fraud Detection]()
