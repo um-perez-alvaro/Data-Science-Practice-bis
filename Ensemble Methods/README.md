@@ -2,7 +2,7 @@
 
 ## Jupyter notebooks
 
-- [Decision Trees]()
+- [Decision Trees](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Decision%20Trees.ipynb)
 - [Random Forests]()
 - [Gradient Tree Boosting]()
 
