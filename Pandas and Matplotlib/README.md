@@ -6,11 +6,11 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 
 ## Jupyter Notebooks
 
-- [pandas - Part I. DataFrames and Series](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Part%20I.ipynb)
-- [pandas - Part II. Sorting, Filtering and Applying](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Part%20II.ipynb)
-- [pandas - Part III. Part III. Data Cleaning and Preparation](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Part%20III.ipynb)
-- [pandas - Part IV. Data Aggregation](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Part%20IV.ipynb)
-- [matplotlib - Part I](hell)
+- [DataFrames and Series](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Part%20I.ipynb)
+- [Sorting, Filtering and Applying](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Part%20II.ipynb)
+- [Data Cleaning and Preparation](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Part%20III.ipynb)
+- [Data Aggregation](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Part%20IV.ipynb)
+- [Data Visualization](hell)
 
 
 ## Practice Problems
@@ -21,7 +21,7 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 ## Homework  (due Sept 11)
 
 - [Stanford Open Police Dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Homework%201.ipynb)
-- [US Baby names](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Homework%202.ipynb)
+- [US Baby Names](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Pandas%20and%20Matplotlib/Homework/Homework%202.ipynb)
 
 ## Datasets
 
