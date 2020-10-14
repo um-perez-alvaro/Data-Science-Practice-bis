@@ -7,7 +7,7 @@
 - [Gradient Tree Boosting]()
 
 ## Homework ()
-- [Credit scoring problem]()
+- [Credit scoring problem](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Homework/Credit%20Scoring%20problem.ipynb)
 - [Flight delays]()
 - [Forest Cover Type Prediction]()
 
