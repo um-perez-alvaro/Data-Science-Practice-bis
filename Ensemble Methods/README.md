@@ -5,7 +5,7 @@
 - [Decision Trees](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Decision%20Trees.ipynb)
 - [Random Forests](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Random%20Forests.ipynb)
 
-## Homework ()
+## Homework (Mon, October 26)
 - [Credit scoring problem](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Homework/Credit%20Scoring%20problem.ipynb)
 - [Forest Cover Type Prediction]()
 
