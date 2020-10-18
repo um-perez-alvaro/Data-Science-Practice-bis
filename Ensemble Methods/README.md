@@ -7,7 +7,7 @@
 
 ## Homework (Mon, October 26)
 - [Credit scoring Problem](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Homework/Credit%20Scoring.ipynb)
-- [Forest Cover Type Prediction](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Homework/Credit%20Scoring.ipynb)
+- [Forest Cover Type Prediction](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Homework/Forest%20Cover.ipynb)
 
 ## In-class project () 
 - [Flight delays]()
