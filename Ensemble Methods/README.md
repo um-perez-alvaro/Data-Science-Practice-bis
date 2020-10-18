@@ -6,8 +6,8 @@
 - [Random Forests](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Random%20Forests.ipynb)
 
 ## Homework (Mon, October 26)
-- [Credit scoring problem](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Homework/Credit%20Scoring%20problem.ipynb)
-- [Forest Cover Type Prediction]()
+- [Credit scoring Problem](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Homework/Credit%20Scoring.ipynb)
+- [Forest Cover Type Prediction](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Homework/Credit%20Scoring.ipynb)
 
 ## In-class project () 
 - [Flight delays]()
