@@ -16,4 +16,4 @@
 
 Filename | Description |  Source
 --- | --- |  --- 
-[sales.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/sales.csv)  |  | Kaggle
+[Advertising](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/Advertising.csv)  |  | Kaggle
