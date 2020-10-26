@@ -10,7 +10,7 @@
 - []()
 
 ## In-class project () 
-- []()
+- Predicting Bicycle Traffic
 
 ## Datasets
 
