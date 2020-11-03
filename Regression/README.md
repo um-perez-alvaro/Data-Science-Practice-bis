@@ -6,7 +6,7 @@
 - [Overfitting and Regularization](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Regression/Regularization.ipynb)
 
 ## Homework ()
-- [Predicting house prices]()
+- [Predicting house prices](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Regression/Homework/Predicting%20House%20Prices.ipynb)
 - [Cancer diagnosis](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Regression/Homework/Leukemia%20Diagnosis.ipynb)
 
 ## In-class project () 
