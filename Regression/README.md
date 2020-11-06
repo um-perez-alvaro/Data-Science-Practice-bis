@@ -10,7 +10,7 @@
 - [Cancer diagnosis](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Regression/Homework/Leukemia%20Diagnosis.ipynb)
 
 ## In-class project () 
-- Predicting Bicycle Traffic
+- [Predicting Bicycle Traffic](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Regression/Predicting%20Bicycle%20Traffic.ipynb)
 
 ## Datasets
 
