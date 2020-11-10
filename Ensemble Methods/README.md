@@ -10,7 +10,7 @@
 - [Forest Cover Type Prediction](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/Homework/Forest%20Cover.ipynb)
 
 ## In-class project () 
-- [Flight delays]()
+- [Flight delays](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Ensemble%20Methods/flights2015.ipynb)
 
 ## Datasets
 
