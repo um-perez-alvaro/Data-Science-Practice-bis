@@ -5,7 +5,7 @@
 - [Linear and Polynomial Regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Regression/Linear%20Regression.ipynb)
 - [Overfitting and Regularization](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Regression/Regularization.ipynb)
 
-## Homework (Mon, November 16)
+## Homework (Wed, November 18)
 - [Predicting house prices](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Regression/Homework/Predicting%20House%20Prices.ipynb)
 - [Cancer diagnosis](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Regression/Homework/Leukemia%20Diagnosis.ipynb)
 
